@@ -3,4 +3,4 @@
 ローカルリポで変更　　
 conflictブランチで変更(コンフリクト発生)
 conflit-remote上で更新(コンフリクト発生)
-stash練習(3rd stash)
+stash練習(1st)
